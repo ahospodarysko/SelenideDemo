@@ -1,0 +1,12 @@
+*.iml
+*.log
+*.log.1
+*.html
+
+.idea
+allure-results
+build
+Log4j
+target
+test-output
+.DS_Store
